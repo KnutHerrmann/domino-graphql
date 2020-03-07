@@ -1,0 +1,22 @@
+.app {
+    text-align: center;
+}
+
+a, a:hover {
+    color: inherit;
+}
+
+body {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #333;
+}
+
+button {
+    margin-right: 10px;
+}
+
+.app-content {
+    padding-top: 20px;
+    border-top: lightgray solid 1px;
+}

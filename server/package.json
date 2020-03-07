@@ -1,0 +1,26 @@
+{
+  "name": "domino-graphql-server",
+  "version": "1.0.0",
+  "description": "GraphQL Server with Domino backend based on domino.db",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Paul Harrison (Eight Dot Three Limited) and Knut Herrmann (Leonso GmbH)",
+  "license": "MIT",
+  "dependencies": {
+    "@domino/domino-db": "file:domino-domino-db-1.4.1.tgz",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8",
+    "graphql-tools": "^4.0.6",
+    "lodash.get": "^4.4.2",
+    "lodash.sortby": "^4.7.0",
+    "notarealdb": "^0.2.2",
+    "validator": "^12.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
