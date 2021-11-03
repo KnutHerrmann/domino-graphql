@@ -18,7 +18,7 @@
     "lodash.get": "^4.4.2",
     "lodash.sortby": "^4.7.0",
     "notarealdb": "^0.2.2",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
